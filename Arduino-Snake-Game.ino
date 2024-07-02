@@ -1,5 +1,5 @@
-//MADE BY HOX DIPAN NEW
-// VISIT YouTube.com/HoXDipannew
+//Arduino Snake Game Codes
+// VISIT https://youtube.com/@TechEdafeEdu?si=MYzHI8vtBK9LsFuB
 enum DisplayItem {GRAPHIC_ITEM_NONE, GRAPHIC_ITEM_A, GRAPHIC_ITEM_B, GRAPHIC_ITEM_NUM};
 #include <LiquidCrystal.h> //Install LiquidCrystal_I2C.h
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
